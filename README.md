@@ -278,8 +278,8 @@ git restore .
 
 När ni är klara ska ni kunna bocka av allt nedan.
 
-* [ ] Alla har klonat repositoryt.
-* [ ] Alla har arbetat i en egen branch.
+* [x] Alla har klonat repositoryt.
+* [x] Alla har arbetat i en egen branch.
 * [ ] Alla har gjort minst en commit.
 * [ ] Alla har pushat till GitHub.
 * [ ] Alla har skapat en Pull Request.
