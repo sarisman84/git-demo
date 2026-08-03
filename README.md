@@ -284,10 +284,10 @@ När ni är klara ska ni kunna bocka av allt nedan.
 * [x] Alla har arbetat i en egen branch.
 * [x] Alla har gjort minst en commit.
 * [x] Alla har pushat till GitHub.
-* [ ] Alla har skapat en Pull Request.
+* [x] Alla har skapat en Pull Request.
 * [x] Alla har reviewat en annan persons Pull Request.
 * [x] Gruppen har löst minst en merge conflict.
-* [ ] Alla ändringar finns i `main`.
+* [x] Alla ändringar finns i `main`.
 
 ---
 
