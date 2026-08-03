@@ -18,7 +18,9 @@ När övningen är klar ska ni ha tränat på att:
 * Reviewa varandras kod
 * Lösa merge conflicts
 
+
 ---
+
 
 # 👥 Roller
 
@@ -280,11 +282,11 @@ När ni är klara ska ni kunna bocka av allt nedan.
 
 * [x] Alla har klonat repositoryt.
 * [x] Alla har arbetat i en egen branch.
-* [ ] Alla har gjort minst en commit.
-* [ ] Alla har pushat till GitHub.
+* [x] Alla har gjort minst en commit.
+* [x] Alla har pushat till GitHub.
 * [ ] Alla har skapat en Pull Request.
-* [ ] Alla har reviewat en annan persons Pull Request.
-* [ ] Gruppen har löst minst en merge conflict.
+* [x] Alla har reviewat en annan persons Pull Request.
+* [x] Gruppen har löst minst en merge conflict.
 * [ ] Alla ändringar finns i `main`.
 
 ---
